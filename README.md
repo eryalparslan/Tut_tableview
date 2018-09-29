@@ -9,4 +9,4 @@ Her satırdan farklı ekranlara geçiş yapabilir, detay bilgisi alabilir veya i
 Ayrıca tableview verileri statik veya dinamik olabilir. Biz bu derste statik veri kullanacağız.
 
 
-[Devamını oku...](https://github.com/iosnotlari/Tut_TelefonNumarasiFormatlamak)
+[Devamını oku...](https://iosnotlari.com/uitableview-kullanimi/)
